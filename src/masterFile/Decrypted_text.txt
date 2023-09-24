@@ -1,0 +1,4 @@
+STD01|Eugene|InformationTechnology(IT)|2020IT|Graduated|4
+STD02|Hu|SoftwareEngineering(SE)|2021SE|Graduated|4
+STD96|Chong|0102030405066|InformationTechnology(IT)|2020IT|FirstChoice Institute|2023/03/29
+STD02|Hu|111-11111111|SoftwareEngineering(SE)|2021SE|FirstChoice Institute|2023/03/29

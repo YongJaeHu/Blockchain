@@ -1,0 +1,2 @@
+Chong|STD96|987654321|Male|121-12112112|jane.smith@example.com|home|mr chong|232-232323232|mrchong@example.com|InformationTechnology(IT)|2020IT
+Hu|STD02|123456789|Male|111-11111111|wengjie2000@gmail.com|home|mrhu|222-222222222|mrhu@example.com|SoftwareEngineering(SE)|2021SE
